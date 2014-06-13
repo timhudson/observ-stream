@@ -3,6 +3,9 @@ observe-stream
 
 Node streams interface to [observ](https://www.npmjs.org/package/observ), [observ-struct](https://www.npmjs.org/package/observ-struct) and [observ-array](https://www.npmjs.org/package/observ-array)
 
+[![browser support](https://ci.testling.com/timhudson/observ-stream.png)
+](https://ci.testling.com/timhudson/observ-stream)
+
 example
 -------
 
